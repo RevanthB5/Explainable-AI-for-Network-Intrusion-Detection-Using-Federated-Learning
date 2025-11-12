@@ -1,7 +1,5 @@
 # Explainable AI for Network Intrusion Detection Using Federated Learning
 
-## Overview
-
 This project implements a comprehensive Explainable AI (XAI) system for network intrusion detection using both **centralized** and **federated learning** approaches. The system achieves 98%+ accuracy on the CICIDS2017 dataset while providing interpretable predictions through LIME (Local Interpretable Model-agnostic Explanations) and advanced feature analysis.
 
 ### Key Highlights
