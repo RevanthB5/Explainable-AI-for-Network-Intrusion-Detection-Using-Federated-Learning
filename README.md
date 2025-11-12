@@ -125,8 +125,6 @@ Actual Benign   28,021    409
 
 ## Visualizations
 
-The project generates 15+ comprehensive visualizations:
-
 **Feature Analysis**
 
 - Feature Discrimination Power (Cohen's d)
