@@ -51,7 +51,7 @@ This project implements a comprehensive Explainable AI (XAI) system for network 
 
 **Optimizer**: Adam
 **Loss Function**: Binary Cross-entropy
-**Metrics**: Accuracy
+**Metrics**: Accuracy, Precision, Recall, F1-score
 
 ### Training Configuration
 
