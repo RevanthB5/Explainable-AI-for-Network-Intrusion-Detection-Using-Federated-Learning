@@ -44,7 +44,6 @@ This project implements a comprehensive Explainable AI (XAI) system for network 
 
 ## Model Architecture
 
-### Deep Neural Network (Both Centralized \& Federated)
 <img width="2419" height="1479" alt="Architecture Diagram" src="https://github.com/user-attachments/assets/37826ff7-a270-4c22-97a3-a7b8e4c2a6a9" />
 
 **Optimizer**: Adam
